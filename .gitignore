@@ -1,1 +1,5 @@
 /.idea/
+/prog-intro-exam/target/
+*.class
+/target/
+/*/target/
